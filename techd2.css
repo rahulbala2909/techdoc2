@@ -1,0 +1,27 @@
+.menu{
+    float: left;
+    background-color: rgba(223, 223, 23, 0.781);
+    width: 15%;
+    margin-right: 2vh;
+}
+
+nav.menu li{
+
+    list-style-type:square;
+    position: relative;
+    left: -1vh;
+    border-bottom: 1px dotted black;
+    padding: 1.1vh;
+}
+
+.header {
+    font-size: xx-large;
+    padding-left: 1vh;
+    margin-left: 31vh;
+    margin-top: 2vh;
+}
+
+.header ul{
+    text-align: left;
+    font-size: xx-large;
+}
